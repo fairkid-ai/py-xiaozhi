@@ -38,7 +38,7 @@ This project takes a lot of ideas from [78/xiaozhi-esp32](https://github.com/78/
   * Bind your client to the Xiozhi server: [xiaozhi.me](https://xiaozhi.me/) before talking to it.
   * Refer to [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) for more help on how to use Xiaozhi.
 ## Known issues and limitations
- - [ ] The Websocket client does not currently support multiple conversations. Quit and restart the client to start a new conversation. Ihe issue will be addressed in future updates.
+ - [ ] The Websocket client does not currently support multiple conversations. Quit and restart the client to start a new conversation. The issue will be addressed in future updates.
 
 ## Requirements and Contributions
 Contributions are warmly welcome! Please submit issues or pull requests if you have any suggestions or improvements.
