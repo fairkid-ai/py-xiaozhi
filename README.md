@@ -41,7 +41,7 @@ This project takes a lot of ideas from [78/xiaozhi-esp32](https://github.com/78/
  - [ ] The Websocket client does not currently support multiple conversations. Quit and restart the client to start a new conversation. Ihe issue will be addressed in future updates.
 
 ## Requirements and Contributions
-Contributions are warmly welcome! Please submit issues or pull requests if you have any suggestions or improvements..
+Contributions are warmly welcome! Please submit issues or pull requests if you have any suggestions or improvements.
 
 ## Credits
  * [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
